@@ -1,7 +1,7 @@
 > # RANGKUMAN MISI 1 PROGRAMMING SEKURO 
 
 
-* ## Vidio pertama : Apa itu Git & GitHub?
+* ## Vidio Pertama : Apa itu Git & GitHub?
     - Git merupakan salah satu software yang bisa melakukan VCS (*Version Control System*) yaitu dapat mengelola perubahan file dalam folder. (**repository/repo**)
     - VCS atau *Version Control System* sendiri merupakan sistem yang menyimpan dan mengelola rekaman perubahan dari source code. 
     - Selain itu, dengan VCS ini memungkinkan bekerja berkolaaborasi dengan lebih baik, mengetahui siapa yang melakukan perubahan dan kapan itu terjadi, dan memungkinkan kita untuk kembali ke perubahan sebelumnya (**checkout**). VCS ini ada banyak salah satunya yaitu Git.
