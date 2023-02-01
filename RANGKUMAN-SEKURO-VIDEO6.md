@@ -20,3 +20,6 @@
         10. jika ingin mengecek branch yang sudah di merge bisa dengan **git branch --merged**, karena kita sudah menggabungkan merge pertama, maka branch pertama bisa dihapus dengan **git branch -d (nama branch yang ingin dihapus)**
 
 * gambar beberapa percobaan video 6 :
+
+    - ![Percobaan video 6](https://drive.google.com/file/d/1SkId6p9RoGx3nmFd5XRDM8637U90rTUR/view?usp=sharing "percobaan video 6")
+    - ![Percobaan1 video 6](https://drive.google.com/file/d/1Xv7cJ1cUne2r916MMmHsUmTS3XtllBdc/view?usp=sharing "percobaan1 video 6")
